@@ -1,0 +1,8 @@
+{
+    "hostname": "https://analytics.ytica.com",
+    "projectId": "<YTICA WORKSPACE ID>",
+    "username": "<YTICA USERNAME>",
+    "password": "<YTICA PASSWORD>",
+    "output": "metadata.json",
+    "projectTimezone":"Europe/Paris"  
+}
